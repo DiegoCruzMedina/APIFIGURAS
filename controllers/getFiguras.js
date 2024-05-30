@@ -1,5 +1,5 @@
 const { request, response } = require("express");
-const { figuras, figuras } = require("../figuras.js");
+const { figuras } = require("../figuras.js");
 
 const getFiguras = (req, res) => {
     res.json(figuras);
