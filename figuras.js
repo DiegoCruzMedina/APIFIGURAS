@@ -68,7 +68,7 @@ const figuras = [
         "name": "Bulma",
         "precio":"$12.990",
         "tipo":"Dragon Ball Super",        
-        "imagen": "https://i.postimg.cc/rFnvScmL/capitan.jpg",
+        "imagen": "https://i.postimg.cc/rFyxyj3y/bulma.png",
         "tamaño":"18.4 x 15.5 cm",
     },
     {
@@ -86,7 +86,7 @@ const figuras = [
         "name": "Flash",
         "precio": "$34.990",
         "tipo":"Flash la Serie (Netflix)",
-        "imagen": "https://i.postimg.cc/7Z5j9cGJ/gon.jpg",
+        "imagen": "https://i.postimg.cc/zGcnchdz/flash.png",
         "tamaño":"16.8 x 12.8 cm",
     },
     
